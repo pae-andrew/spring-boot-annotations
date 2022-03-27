@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>ru.learnUp.lesson20</groupId>
-	<artifactId>spring-boot-test</artifactId>
+	<artifactId>spring-boot-annotations</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-boot-test</name>
+	<name>spring-boot-annotations</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
